@@ -4,7 +4,7 @@ author: "S.R. Weaver"
 tags: nightmarepunk necropunk necrodreampunk nightmaresolstice isometricmaps
 ---
 ## Uploaded Fairy Page 10
-![Page 10](https://github.com/LWFlouisa/UFBlog/blob/main/images/Pages/page10.jpg?raw=true)
+![Page 10](https://raw.githubusercontent.com/BequestDeCendresStudios/BequestDeCendresBlog/refs/heads/main/images/Pages/page10.jpg?raw=true)
 
 ## Currently Fleshing Out Nightmare Solstice
 This will be a Cyberpunk-like game that revolves around nightmares and night terrors, more will be revealed as more is developed.
