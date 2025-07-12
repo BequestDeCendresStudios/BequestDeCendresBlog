@@ -1,0 +1,46 @@
+title: "Uploaded Fairy Blog"
+author: "S.R Weaver"
+email: 
+description: > # this means to ignore newlines until "show_exerpts:"
+  Stories of the "French Colonial Gothic", Weird West, and Post-Colonial Dark Fantasy. I used to call my work "Guillotine Western", which evolved out of Cyberpunkk and Westerns.
+
+show_excerpts: true # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    # twitter: FlouisaLW
+    # github:  LWFlouisa
+    rss: rss
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    # instagram: sarahrweaver
+    # linkedin: jekyll
+    # pinterest: jekyll
+    # youtube: 
+    # youtube_channel: UC0STgldrphgGmXK6N-pdSkA
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+
+    # Mastodon instances
+    mastodon:
+     - username: LWFlouisa
+       instance: comics.town
+     - username: LWFlouisa
+       instance: kpop.social
+
+# Build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-sitemap
+ - jemoji
