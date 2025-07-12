@@ -1,5 +1,6 @@
 ---
 title: About
+layout: page
 ---
 ## About The Author
 Currently repurposing my webcomic newsletter into a blog for my long term game project.
