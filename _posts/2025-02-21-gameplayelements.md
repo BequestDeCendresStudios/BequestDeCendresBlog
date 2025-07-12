@@ -5,7 +5,7 @@ tags: rockpaperscissors lunarrps clockbased lunarcalender hypercube
 ---
 # Uploaded Fairy
 ## Page Three
-![PAGE THREE](https://raw.githubusercontent.com/LWFlouisa/UFBlog/refs/heads/main/images/Pages/page3.jpg)
+![PAGE THREE](https://raw.githubusercontent.com/BequestDeCendresStudios/BequestDeCendresBlog/refs/heads/main/images/Pages/page3.jpg)
 
 # News
 ## LANGAUGE CHANGES
