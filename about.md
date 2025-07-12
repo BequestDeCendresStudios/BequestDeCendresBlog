@@ -4,7 +4,7 @@ title: About
 ## About The Author
 
 ## Webcomic Description
-[Cover](https://raw.githubusercontent.com/BequestDeCendresStudios/BequestDeCendresBlog/refs/heads/main/images/Pages/layer.png)
+![Cover](https://raw.githubusercontent.com/BequestDeCendresStudios/BequestDeCendresBlog/refs/heads/main/images/Pages/layer.png)
 
 Hemato-Tomato, an apprentice executioner to her father, whom acquired the job of executioner from the last French executioner, is torn between love and justice: she keeps a secret from her girlfriend, her taste for blood. But Ehena-Marie ( Anna-Marie Boeglin reincarnated ) has secrets of her own.
 
