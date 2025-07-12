@@ -4,7 +4,7 @@ author: "S.R. Weaver / NumeroHex"
 tags: uploadedfairy emeliestrain healingstatemachine yodanots
 ---
 ## Uploaded Fairy Page 8
-![page8](https://raw.githubusercontent.com/LWFlouisa/UFBlog/refs/heads/main/images/Pages/page8.jpg)
+![page8](https://raw.githubusercontent.com/BequestDeCendresStudios/BequestDeCendresBlog/refs/heads/main/images/Pages/page8.jpg)
 
 ## Emelie's Train
 Riding in a train was an experience that Emelie had not had before. She always assumed that it would be louder, with constant talking at the rhythm of a cigarette butt. But there was only silence. Her sister Alain was reading her eReader device, pay not much attention to either Emelie staring out of the window. Or the waiter placing snack peanuts on their table. It was her favorite book, two little platypuses. “So are you looking forward to being at out new home?” said Emelie. But her little sister had no answer, only the answer of a swipe with her finger across the moving screen.
