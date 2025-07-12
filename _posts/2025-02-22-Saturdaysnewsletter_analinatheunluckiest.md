@@ -5,7 +5,7 @@ tags: webcomic middlegradefiction gamedevnews
 ---
 # SATURDAY'S NEWSLETTER
 ## Ancient Device From Two Centuries Prior
-![PAGE FOUR](https://raw.githubusercontent.com/LWFlouisa/UFBlog/refs/heads/main/images/Pages/page4.jpg)
+![PAGE FOUR](https://raw.githubusercontent.com/BequestDeCendresStudios/BequestDeCendresBlog/refs/heads/main/images/Pages/page4.jpg)
 
 ## Ana-Lina The Unluckiest
 Saucepans, Apple Jars, Candle Wax. In morning one dines upon the flax. The girl asked of her current dating life, says to her brother: "Hey! It's non of your bees wax."
