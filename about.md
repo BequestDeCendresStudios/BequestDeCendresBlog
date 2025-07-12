@@ -2,6 +2,7 @@
 title: About
 ---
 ## About The Author
+Currently repurposing my webcomic newsletter into a blog for my long term game project.
 
 ## Webcomic Description
 ![Cover](https://raw.githubusercontent.com/BequestDeCendresStudios/BequestDeCendresBlog/refs/heads/main/images/Pages/layer.png)
