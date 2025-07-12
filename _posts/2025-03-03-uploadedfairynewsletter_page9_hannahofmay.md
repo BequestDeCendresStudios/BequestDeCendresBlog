@@ -4,7 +4,7 @@ author: "S.R. Weaver / L.W. Flouisa"
 tags: webcomic shortfiction newsletter
 ---
 ## Uploaded Fairy Page 9
-![Page 9](https://github.com/LWFlouisa/UFBlog/blob/main/images/Pages/page9.jpg?raw=true)
+![Page 9](https://raw.githubusercontent.com/BequestDeCendresStudios/BequestDeCendresBlog/refs/heads/main/images/Pages/page9.jpg?raw=true)
 
 ## Hannah Of May
 Hannah had heard the legend once before when her mother said, “Do not go forth, and leave this shed.” But once upon a time, she once obeyed. Instead she made her mother, dismayed -- for she threw herself into the fray. Walking through the wood when the day broke, the allergies made her choke.
