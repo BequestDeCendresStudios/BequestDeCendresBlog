@@ -4,7 +4,7 @@ author: "S.R. Weaver"
 tags: transphobia fediverse activitypub flagship gamedev comicsyndication
 ---
 ## Uploaded Fairy Page 12
-![Uploaded Fairy Page 12](https://github.com/LWFlouisa/UFBlog/blob/main/images/Pages/page12.jpg?raw=true)
+![Uploaded Fairy Page 12](https://raw.githubusercontent.com/BequestDeCendresStudios/BequestDeCendresBlog/refs/heads/main/images/Pages/page12.jpg)
 
 ## New Approach For Game Design
 I'm currently in the process of switching the way that I organize my game design framework:
