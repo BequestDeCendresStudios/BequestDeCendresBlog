@@ -4,7 +4,7 @@ author: "S.R. Weaver / Author"
 tags: webcomic anisesstories gamedevnews
 ---
 ## UPLADED FAIRY: WITH DREAMS NOT SECRED
-![With Dreams Not Sacred](https://raw.githubusercontent.com/LWFlouisa/UFBlog/refs/heads/main/images/Pages/page5.jpg)
+![With Dreams Not Sacred](https://raw.githubusercontent.com/BequestDeCendresStudios/BequestDeCendresBlog/refs/heads/main/images/Pages/page5.jpg)
 
 ## Anise's Stories
 The breeze of the wind, give the air a strong chill.
