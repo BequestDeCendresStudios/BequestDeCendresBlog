@@ -4,7 +4,7 @@ author: "S.R. Weaver"
 tags: newsletter gamedev webcomicsyndication
 ---
 ## Uploaded Fairy Page 13
-![Page 13]()
+![Page 13](https://raw.githubusercontent.com/BequestDeCendresStudios/BequestDeCendresBlog/refs/heads/main/images/Pages/page13.jpg)
 
 ## Omuleisetango
 Omeleisetango is derived from the word Omulet and the Nihongo word for word, implying the folding over of a word like an omulet.
