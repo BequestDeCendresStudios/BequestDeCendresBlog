@@ -1,10 +1,10 @@
 ---
-title: "Uploaded Fairy Page 14, Omuleisetango, Bequest De Cendres Prototype"
+title: "Uploaded Fairy Page 13, Omuleisetango, Bequest De Cendres Prototype"
 author: "S.R. Weaver"
 tags: newsletter gamedev webcomicsyndication
 ---
-## Uploaded Fairy Page 14
-![Page 14]()
+## Uploaded Fairy Page 13
+![Page 13]()
 
 ## Omuleisetango
 Omeleisetango is derived from the word Omulet and the Nihongo word for word, implying the folding over of a word like an omulet.
