@@ -1,7 +1,7 @@
 ---
 title: "Uploaded Fairy Page 12, New Approach For Game Design, Mastodon Social Transphobia"
 author: "S.R. Weaver"
-tags: transphobia fediverse activitypub flagship gamedev comicsyndication
+tags: newsletter gamedev webcomicsyndication
 ---
 ## Uploaded Fairy Page 13
 ![Uploaded Fairy Page 12](https://raw.githubusercontent.com/BequestDeCendresStudios/BequestDeCendresBlog/refs/heads/main/images/Pages/page13.jpg)
